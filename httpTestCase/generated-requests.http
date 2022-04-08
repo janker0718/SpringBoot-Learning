@@ -1,3 +1,13 @@
-### 初始化项目
-GET localhost:8080/greeting?name=User
+# exp01
+### exp01 - init restful web
+GET http://localhost:8080/greeting?name=User
+
+# exp02
+### exp02 -  上传文件界面
+GET http://localhost:8080/
+
+### exp02 - 访问文件
+GET localhost:8080/files/{{filename}}
+
+
 

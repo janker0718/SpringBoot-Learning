@@ -10,7 +10,7 @@ http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>top.janker.springboot</groupId>
-    <artifactId>exp01</artifactId>
+    <artifactId>exp01-init-restful-web</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>exp01-init-restful-web</name>
     <description>exp01-init-restful-web</description>

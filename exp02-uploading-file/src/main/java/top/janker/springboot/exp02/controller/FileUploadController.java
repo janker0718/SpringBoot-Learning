@@ -1,4 +1,4 @@
-package top.janker.springboot.exp02;
+package top.janker.springboot.exp02.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.core.io.Resource;

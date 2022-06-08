@@ -13,6 +13,17 @@
         <maven.compiler.target>8</maven.compiler.target>
     </properties>
 
+    <packaging>pom</packaging>
 
+    <modules>
+        <module>exp01-init-restful-web</module>
+        <module>exp02-uploading-file</module>
+        <module>exp03-swagger-v2</module>
+        <module>exp04-swagger-v2-bootstrap-ui</module>
+        <module>exp05-knife4j-v2</module>
+        <module>exp06-knife4j-v3</module>
+        <module>exp07-shardingjdbc-mybatis-tables</module>
+        <module>exp08-webflux</module>
+    </modules>
 
 </project>

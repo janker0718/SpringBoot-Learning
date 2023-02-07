@@ -24,3 +24,5 @@ hs_err_pid*
 .idea
 /exp01-init-restful-web/exp01.iml
 /*/exp*.iml
+/target/
+*/target/
